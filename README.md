@@ -3,7 +3,7 @@
 praiseme
 ========
 
-The goal of praiseme is to praise people
+The goal of praiseme is to praise people using a function
 
 Installation
 ------------
