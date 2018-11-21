@@ -8,6 +8,6 @@
 
 praise <- function(name = "Rhydwyn"){
 
-  paste0("you're the best ", name, '! ❤")
+  paste0("you're the best ", name, "! ❤")
 
 }
